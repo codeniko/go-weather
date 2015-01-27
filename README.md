@@ -1,4 +1,4 @@
-## weather.go
+## go-weather
 A simple attempt at programming with Go using the openweathermap API. This is a daemon running in the background that listens to port 8080. When sending the correctly structured HTTP request, weather information about the CITY,STATE you requested about is returned. 
 
 Weather information retrieved include: Temperature, humidity, wind speed, and wind direction.
